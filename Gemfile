@@ -57,6 +57,8 @@ group :development do
 end
 
 group :test do
+  # Install simplecov
+  gem 'simplecov', require: false
   # Adds support for Capybara system testing and selenium driver
   gem 'capybara', '>= 2.15'
   gem 'selenium-webdriver'
@@ -73,4 +75,3 @@ gem 'mini_racer'
 group :development, :test do
   gem 'rspec-rails', '~> 3.7'
 end
-

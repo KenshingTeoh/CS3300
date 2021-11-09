@@ -6,4 +6,3 @@ RSpec.feature "Visiting the homepage", type: :feature do
     expect(page).to have_text("Projects")
   end
 end
-
