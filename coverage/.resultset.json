@@ -1,6 +1,23 @@
 {
   "RSpec": {
     "coverage": {
+      "/root/CS3300/app/models/user.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/root/CS3300/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
       "/root/CS3300/app/helpers/application_helper.rb": {
         "lines": [
           1,
@@ -18,18 +35,10 @@
           1,
           1,
           null,
-          null,
-          1,
-          6,
-          null,
-          null,
-          null,
           1,
           null,
-          null,
-          null,
           1,
-          4,
+          0,
           null,
           null,
           null,
@@ -38,50 +47,59 @@
           null,
           null,
           1,
-          4,
+          0,
           null,
-          4,
-          4,
-          4,
-          2,
           null,
-          4,
-          2,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
           null,
           null,
           null,
           null,
           null,
           1,
-          4,
-          4,
-          4,
-          2,
+          0,
+          0,
+          0,
+          0,
           null,
-          4,
-          2,
-          null,
-          null,
+          0,
+          0,
           null,
           null,
-          null,
-          1,
-          2,
-          2,
-          4,
-          2,
           null,
           null,
           null,
           1,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null,
           null,
           1,
-          15,
+          null,
+          1,
+          5,
           null,
           null,
           null,
           1,
-          8,
+          0,
           null,
           null
         ]
@@ -95,13 +113,7 @@
       "/root/CS3300/app/models/project.rb": {
         "lines": [
           1,
-          1,
-          null
-        ]
-      },
-      "/root/CS3300/app/models/application_record.rb": {
-        "lines": [
-          1,
+          null,
           1,
           null
         ]
@@ -145,6 +157,6 @@
         }
       }
     },
-    "timestamp": 1636421172
+    "timestamp": 1637618305
   }
 }
