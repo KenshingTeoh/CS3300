@@ -2,6 +2,7 @@ class ProjectsController < ApplicationController
   before_action :set_project, only: %i[ show edit update destroy ]
   # Now needs to be an authenticate user in order to do the following command
   before_action :authenticate_user!
+
   # GET /projects or /projects.json
   def index
     @projects = Project.all

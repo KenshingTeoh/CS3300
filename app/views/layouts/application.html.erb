@@ -11,5 +11,8 @@
 
   <body>
     <%= yield %>
+    <%= user_signed_in? %>
+    <%= user_session %>
+    <%= current_user %>
   </body>
 </html>
